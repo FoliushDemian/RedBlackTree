@@ -1,3 +1,0 @@
-D:/Education/FirstLabFromAlgo/cmake-build-debug/CMakeFiles/RedBlackTree.dir
-D:/Education/FirstLabFromAlgo/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Education/FirstLabFromAlgo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
